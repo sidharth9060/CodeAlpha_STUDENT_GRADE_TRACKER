@@ -1,4 +1,4 @@
-# CodeAlpha_STUDENT_GRADE_TRACKER
+# STUDENT_GRADE_TRACKER
 # Grade Calculator
 
 A simple grade calculator built using Python's Tkinter library. This application allows users to input their scores in English, Analytical Skills, and General Knowledge, then calculates the total score, average score, and determines if the user has passed or failed.
